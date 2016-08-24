@@ -1,3 +1,8 @@
-This is my first git project.
+This is my first practical git project.
 
 Now I am updating files to see how GIT works....
+
++
+
+Testing the diff attribute
+
